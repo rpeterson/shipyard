@@ -12,4 +12,3 @@ newrelic.ini
 *.db
 *.ve
 static_root/*
-Procfile
